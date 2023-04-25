@@ -7,7 +7,7 @@ import {
   MenuItem,
   Select,
 } from "@mui/material";
-import { FileTable } from "@/components/entry/Table";
+import { FileTable } from "@/components/entry";
 import { Layout } from "@/components/layouts";
 import { filesApi } from "@/consume-apis";
 
